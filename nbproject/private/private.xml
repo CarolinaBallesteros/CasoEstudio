@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/dominio/usuario/servicio/RegistrarUsuarioServicio.java</file>
+            <file>jar:file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/lib/junit_4/junit-4.12-sources.jar!/org/junit/Assert.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/test/usuario/servicio/RegistarUsuarioServicioTest.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/test/usuario/databuilder/UsuarioBuilder.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/dominio/usuario/constantes/UsuarioConstantes.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/persistencia/usuario/entidad/Usuario.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/dominio/usuario/fabrica/UsuarioFabrica.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/test/usuario/servicio/ActualizarUsuarioServicioTest.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/dominio/usuario/servicio/ObtenerUsuarioServicio.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/dominio/usuario/servicio/ActualizarUsuarioServicio.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/persistencia/usuario/repositorio/UsuarioRepositorio.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/persistencia/usuario/repositorio/IUsuarioRepositorio.java</file>
+            <file>file:/C:/Users/karol/OneDrive/Documents/NetBeansProjects/CasoEstudio/src/dominio/usuario/dto/UsuarioDto.java</file>
+        </group>
+    </open-files>
+</project-private>
