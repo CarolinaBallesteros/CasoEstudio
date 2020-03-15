@@ -2,3 +2,9 @@
 *.class
 
 *.rs
+
+build/test/classes/
+
+*.xml
+
+build/classes/
