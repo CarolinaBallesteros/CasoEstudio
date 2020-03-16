@@ -1,11 +1,11 @@
 package persistencia.usuario.entidad;
 
-import dominio.usuario.constantes.UsuarioConstantes;
 import static dominio.usuario.constantes.UsuarioConstantes.EL_APELLIDO_NO_PUEDE_ESTAR_VACIO;
 import static dominio.usuario.constantes.UsuarioConstantes.EL_CEDULA_NO_PUEDE_ESTAR_VACIO;
 import static dominio.usuario.constantes.UsuarioConstantes.EL_NOMBRE_NO_PUEDE_ESTAR_VACIO;
 import static dominio.usuario.constantes.UsuarioConstantes.EL_TELEFONO_NO_PUEDE_ESTAR_VACIO;
 import static dominio.usuario.constantes.UsuarioConstantes.EL_TIPO_USUARIO_NO_PUEDE_ESTAR_VACIO;
+import static persistencia.comun.validacion.ValidarSiesNuloVacio.validarSiesNuloVacio;
 
 public class Usuario {
 
@@ -87,13 +87,6 @@ public class Usuario {
 
     public void setSiguiente(Usuario siguiente) {
         this.siguiente = siguiente;
-    }
-
-    private String validarSiesNuloVacio(String variableValidar, String errorConstante) throws Exception {
-        if (variableValidar == null || variableValidar.isEmpty()) {
-            throw new Exception(errorConstante);
-        }
-        return variableValidar;
     }
 
 }
